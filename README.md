@@ -1,1 +1,1 @@
-# Seasonal-Time-Series-
+In our project, we will focus on the seasonal time series and we use a dataset of the price of apple in 5 cities in Russia, but we will be focusing on the price of apples specifically in Moscow city. We are going to do a more theoretical project so we are going to use the data set of apple prices, fit the data, simulate the fitted model and then forecast the future values. 
